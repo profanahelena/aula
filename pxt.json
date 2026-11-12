@@ -1,0 +1,13 @@
+{
+  "name": "robotbit-acenar-slide",
+  "version": "0.0.1",
+  "description": "Bloco de sequência de aceno para Robotbit V2.0",
+  "dependencies": {
+    "core": "*",
+    "robotbit": "github:KittenBot/pxt-robotbit"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ]
+}
